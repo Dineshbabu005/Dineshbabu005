@@ -3,7 +3,7 @@
 " Future Data Analyst | Unlock the Power of Data | Python Enthusiast | Educator in MySQL "
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dineshbabu-purushothaman)](YOUR_LINKEDIN) 
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dineshbabu005)](YOUR_GITHUB) 
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dineshbabu005/Dineshbabu005)](YOUR_GITHUB) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web&logoColor=white&link=YOUR_PORTFOLIO)](YOUR_PORTFOLIO)
 
 ---
