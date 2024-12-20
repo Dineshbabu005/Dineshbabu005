@@ -33,8 +33,8 @@
 
 ## 📈 **GitHub Stats**  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Dineshbabu005&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Dineshbabu005&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dineshbabu005&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshbabu005&layout=compact&theme=radical)
 
 ---
 
