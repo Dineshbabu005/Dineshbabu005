@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dineshbabu-purushothaman)](https://www.linkedin.com/in/dineshbabu-purushothaman) 
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dineshbabu005)](https://github.com/Dineshbabu005) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web&logoColor=white&link=YOUR_PORTFOLIO)](YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web&logoColor=white&link=https://dineshbabu005.github.io/Portfolio/)](https://dineshbabu005.github.io/Portfolio/)
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 📩 **Contact Me**  
 - 📧 Email: [dineshbabup005@gmail.com]  
-- 🌐 Portfolio: [Your Portfolio Link]  
+- 🌐 Portfolio: [https://dineshbabu005.github.io/Portfolio/]  
 - 💬 Let's connect and collaborate!  
 
 ---
